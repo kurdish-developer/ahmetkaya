@@ -57,6 +57,16 @@
 		box-sizing: border-box;
 	}
 
+/* parallax */
+
+.parallax{
+	height: 50vh;
+	background: url(wow.svg) fixed;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 /* Containers */
 
 	.container {
